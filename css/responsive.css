@@ -50,7 +50,7 @@
 
 @media (max-width: 768px) {
   .hero_area {
-    border-radius: 0 0 250px 0;
+    border-radius: 0 0 0px 0;
   }
 
   .slider_section .detail-box {
@@ -94,6 +94,13 @@
   .info_section form input {
     text-align: center;
   }
+
+  
+.con{
+  width: 300px;
+  margin-left: 80px;
+}
+
 }
 
 @media (max-width: 576px) {}
