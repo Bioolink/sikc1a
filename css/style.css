@@ -92,8 +92,8 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-color: #7335b7;
-  border-radius: 0 0 150px 150px;
+  background-color: #000000;
+  border-radius: 0 0 0px 0px;
 }
 
 .sub_page .hero_area {
@@ -247,12 +247,12 @@ a:focus {
 .quote_btn-container .quote_btn {
   display: inline-block;
   padding: 5px 25px;
-  background-color: #f8842b;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #f8842b;
+  border: 1px solid #ffffff;
 }
 
 .quote_btn-container .quote_btn:hover {
@@ -317,18 +317,19 @@ a:focus {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 12px 15px;
-  background-color: #5a2a8f;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #5a2a8f;
+  border: 1px solid #ffffff;
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
-  color: #ffffff;
+  color: #000000;
   -webkit-transform: translateY(-3px);
           transform: translateY(-3px);
+  background-color: #faf8fd;
 }
 
 .slider_section .img-box img {
@@ -475,7 +476,7 @@ a:focus {
 }
 
 .about_section {
-  background-color: #7335b7;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 150px 150px 0px 0;
 }
@@ -596,7 +597,7 @@ a:focus {
 
 .client_section .box .client_info .client_name h6 {
   margin-bottom: 0;
-  color: #7335b7;
+  color: #000000;
   font-weight: normal;
   font-size: 15px;
   text-transform: uppercase;
@@ -687,7 +688,7 @@ a:focus {
   font-family: "Poppins", sans-serif;
   display: inline-block;
   padding: 10px 65px;
-  background-color: #7335b7;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 3px;
   -webkit-transition: all 0.3s;
@@ -719,9 +720,9 @@ a:focus {
 }
 
 .footer_container {
-  background-color: #7335b7;
+  background-color: #000000;
   color: #ffffff;
-  border-radius: 350px 0 0 0;
+  border-radius: 0px 0 0 0;
   padding-top: 145px;
 }
 
@@ -883,7 +884,7 @@ a:focus {
   justify-content: center;
   align-items: center;
   border-radius: 20px;
-  background-color: #7335b7;
+  background-color: #000000;
   color: wheat;
   scroll-snap-align: start;
 }
